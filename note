@@ -1,0 +1,33 @@
+C:\Users\andyp\AppData\Local\Programs\Tesseract-OCR
+C:\Program Files\Tesseract-OCR\tesseract.exe
+
+Concevoir un Crew Manager intelligent, capable de créer, organiser et orchestrer automatiquement d'autres Crews spécialisés en fonction d’un projet donné.Le Crew Manager devra :Générer les agents nécessaires avec rôles, objectifs et LLMs adaptés,Définir les tâches de chaque agent en cohérence avec le projet,Produire les fichiers YAML (agents.yaml, tasks.yaml),Générer le fichier Python crew.py avec les méthodes @agent, @task, @crew,Veiller à la cohérence, la modularité et l’autonomie du crew généré.
+Créer un système autonome de génération de Crew AI, capable de s’auto-organiser pour gérer des projets complexes sans intervention humaine.
+
+Tu es un expert en conception de systèmes multi-agents basés sur CrewAI.
+
+Objectif : Crée un crew nommé Crew Manager, chargé de coordonner d'autres crews, avec une architecture avancée.
+
+Tâche principale : Génère deux fichiers YAML (agents.yaml et tasks.yaml) pour ce Crew Manager.
+
+Le crew doit contenir 10 agents spécialisés, chacun avec une fonction unique (ex. : planification, recrutement d'agents, validation de tâches, évaluation des performances, audit de sécurité, etc.).
+Chaque agent doit utiliser le modèle de langage le plus performant et adapté à sa mission, parmi les meilleurs disponibles en 2024-2025 (OpenAI GPT-4, Anthropic Claude 3, Gemini 1.5, Mistral, Mixtral, Perplexity, Grok, etc.).
+Pour chaque agent, fournis :
+
+Son nom et rôle
+
+Sa description (mission, spécialité)
+
+Le modèle LLM choisi (avec justification rapide)
+
+Dans tasks.yaml, décris les principales tâches du Crew Manager, comment elles s’articulent, et quels agents sont responsables de chacune.
+
+Fournis aussi une brève revue des meilleurs modèles de langage actuels et leur adéquation avec différents types de tâches (ex : rédaction, codage, planification, calcul, etc.).
+
+
+
+Nom du projet : AgentAudio
+Résumé de l'application : Assistant vocal intelligent capable de comprendre les commandes orales et d'interagir avec des services en ligne.
+Type d'application : Application mobile
+Cible : Grand public
+Langue : FR

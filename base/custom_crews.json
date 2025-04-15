@@ -1,0 +1,38 @@
+[
+  {
+    "label": "📋 Rapport Projet CrewManager",
+    "path": "C:/Users/andyp/OneDrive/Documents/coding/CrewAI/FirstTrueApp/base/output/test_2025",
+    "inputs": {
+      "nom_projet": "test",
+      "resume": "Optimiser la gestion de projet et la coordination multi-agents grâce à des technologies innovantes et une intelligence artificielle prédictive.",
+      "cible": "Grand public",
+      "app_type": "Web app",
+      "langue": "FR",
+      "current_year": "2025"
+    }
+  },
+  {
+    "label": "📊 ProSync Intelligence - Rapport de Projet Collaboratif",
+    "path": "C:/Users/andyp/OneDrive/Documents/coding/CrewAI/FirstTrueApp/base/output/test_2025",
+    "inputs": {
+      "nom_projet": "test",
+      "resume": "Projet personnalisé",
+      "cible": "Grand public",
+      "app_type": "Web app",
+      "langue": "FR",
+      "current_year": "2025"
+    }
+  },
+  {
+    "label": "RAPPORT DE SYNTHÈSE FINAL - CREW MANAGER",
+    "path": "C:/Users/andyp/OneDrive/Documents/coding/CrewAI/FirstTrueApp/base/output/tetost_2025",
+    "inputs": {
+      "nom_projet": "tetost",
+      "resume": "Projet personnalisé",
+      "cible": "Grand public",
+      "app_type": "Web app",
+      "langue": "FR",
+      "current_year": "2025"
+    }
+  }
+]
